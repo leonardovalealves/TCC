@@ -99,3 +99,49 @@ h2 {
   color: #6C99B6  ;
   -webkit-text-stroke: 1px black;
 }
+
+.botoes-container {
+  display: flex;
+  justify-content: space-between; 
+  margin: 0px 20px; 
+  background-color: rgb(203, 228, 178);
+  border-radius: 10px;
+  border: solid black 3px;
+  padding: 10px;
+}
+
+.botoes-container div {
+  text-align: center;
+}
+
+.botoes-container button {
+  border-radius: 10px;
+  font-size: 20px;
+}
+
+.botoes-container h4{
+display: inline-block;
+background-color: #6C99B6;
+border-radius: 8px;
+}
+
+.botoes-container img {
+padding: 0px 10px;
+}
+
+.texto1 {
+  background-color: #85A0B3;
+  display: inline-block;
+  color: black;
+}
+
+.texto2 {
+  background-color: #605760;
+  display: inline-block;
+  color: white;
+}
+.texto3 {
+  background-color: #779D5A;
+  display: inline-block;
+  color: black;
+}
