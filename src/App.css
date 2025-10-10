@@ -3,7 +3,7 @@ body {
 }
 
 header {
-  background-image:url(//media.discordapp.net/attachments/1399878782134780027/1425107718968180818/Rectangle_20.png?ex=68e6627d&is=68e510fd&hm=5391386ad29b080ec9a65845a6fc512bef4e4ac1e66554d45c78dec79a1bdbce&=&format=webp&quality=lossless&width=1310&height=209);
+  background-image:url('https://media.discordapp.net/attachments/1399878782134780027/1425107718968180818/Rectangle_20.png?ex=68e9057d&is=68e7b3fd&hm=47c54bd50431399436b019ec64b683f0fd456976609bdfd42918bf4b5ce4cf43&=&format=webp&quality=lossless&width=1232&height=197');
 display: flex;
 justify-content: space-between;
  border: solid black 7px;
@@ -100,23 +100,18 @@ h2 {
   -webkit-text-stroke: 1px black;
 }
 
-.botoes-container {
+.botoes-container h3 {
+text-align: center;
+background-color: #6C99B6;
+
+}
+
+
+.botao2{
+  border-radius: 10px;
+  font-size: 17px;
   display: flex;
   justify-content: space-between; 
-  margin: 0px 20px; 
-  background-color: rgb(203, 228, 178);
-  border-radius: 10px;
-  border: solid black 3px;
-  padding: 10px;
-}
-
-.botoes-container div {
-  text-align: center;
-}
-
-.botoes-container button {
-  border-radius: 10px;
-  font-size: 20px;
 }
 
 .botoes-container h4{
@@ -144,4 +139,76 @@ padding: 0px 10px;
   background-color: #779D5A;
   display: inline-block;
   color: black;
+}
+/*background-image: url('https://media.discordapp.net/attachments/1399878782134780027/1425107718968180818/Rectangle_20.png?ex=68e9057d&is=68e7b3fd&hm=47c54bd50431399436b019ec64b683f0fd456976609bdfd42918bf4b5ce4cf43&=&format=webp&quality=lossless&width=1232&height=197');*/
+footer {
+  background-color: #605760;
+display: flex;
+justify-content: space-between;
+}
+footer img{
+  background-color: white;
+  border-radius: 100px;
+  display: inline-block;
+}
+
+footer h2, h3 {
+  color: white;
+  -webkit-text-stroke: black 1px;
+  font-size: 30px;
+  margin-bottom: 0px;
+}
+
+.logos {
+background-color: white;
+align-items: center;
+display: inline-block;   
+}
+
+.colaboradores{
+text-align: center;
+}
+
+.contato h3{
+  background-color: white;
+  border-radius: 20px;
+}
+
+.novidade {
+  text-align: center;
+}
+
+.novidade button{
+padding: 10px;
+}
+
+.novidade h2 {
+  text-align: center;
+}
+
+h4 {
+  text-align: center;
+  font-size: 20px;
+ background-color: rgba(108, 153, 182, 0.7);
+ border-radius: 10px;
+ color: black;
+}
+
+.graficos1 {
+  display: flex;
+  justify-content: space-between;
+}
+
+.grafico2 {
+  display: flex;
+  justify-content: center;
+}
+
+.visao h4 {
+   text-align: center;
+  font-size: 20px;
+ background-color: white;
+ border-radius: 10px;
+ color: black;
+ border: solid black 2px;
 }
