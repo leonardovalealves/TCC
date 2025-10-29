@@ -1,0 +1,72 @@
+body {
+    background-color: rgb(203, 228, 178);
+    background-size: cover;
+    color: white;
+}
+button {
+  border-radius: 8px;
+  border: 1px solid transparent;
+  padding: 0.6em 1.2em;
+  font-size: 1em;
+  font-weight: 500;
+  cursor: pointer;
+  transition: border-color 0.25s;
+  background-color: white;  
+}
+button:hover {
+  border-color: #646cff;
+}
+button:focus, button:focus-visible {
+  outline: 4px auto -webkit-focus-ring-color;
+}
+
+header img {
+  background-color: #ffffff;
+  border-radius: 100px;
+}
+header {
+  background-image:url('https://png.pngtree.com/thumb_back/fw800/background/20230427/pngtree-green-park-in-the-middle-of-big-city-image_2560618.jpg');
+display: flex;
+justify-content: space-between;
+ border: solid black 7px;
+ align-items: center;
+}
+
+header img {
+  background-color: #ffffff;
+  border-radius: 100px;
+}
+
+h1 {
+    text-align: center;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.imagens {
+    display: flex;
+    justify-content: space-between;
+    padding: 10px;
+    border: solid rgb(247, 171, 6) 2px;
+}
+
+.cartao{
+    font-size: 20px;
+    background-color: black;
+    opacity: 90%;
+    color: white;
+    font-weight: bold;
+    text-align: center;
+}
+
+h2 {text-align: center;
+color: black;
+}
+h3 {text-align: center;
+color: black;
+}
+
+hr {
+    height: 20px;
+    background-color: rgb(247, 171, 6);
+    border: solid rgb(247, 171, 6) 1px;
+}

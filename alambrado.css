@@ -1,0 +1,64 @@
+
+body {
+  background-image: url('https://media.discordapp.net/attachments/1399878782134780027/1428461330750242937/alambrados1_1.png?ex=68f295c8&is=68f14448&hm=db004e3d635886680afca8607b8483879826b915938db6ff692ab50461eec39c&=&format=webp&quality=lossless&width=774&height=535');
+  background-size: cover;
+}
+
+h1 {
+  color: white;
+  font-weight: bold;
+ text-align: center;
+}
+
+.alam {
+  text-align: center;
+  color: rgb(0, 0, 0);
+}
+
+.imagem1 {
+  border: solid black 3px;
+}
+
+.imagem2 {
+  margin-left: 50px;
+  border: solid black 3px;
+}
+
+.imagem3 {
+  margin-left: 50px;
+  border: solid black 3px;
+}
+
+.imagem4 {
+  border: solid black 3px;
+}
+
+.imagem5 {
+  border: solid black 3px;
+  margin-left: 50px;
+}
+
+.imagem6 {
+  margin-left: 50px;
+  border: solid black 3px;
+}
+
+.imagens1 {
+  background-color: #0093E2;
+  padding: 5px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.imagens2 {
+  background-color: #0093E2;
+  padding: 5px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.tudo {
+  margin-left: 11px;
+}

@@ -1,0 +1,63 @@
+body {
+    background-image: url('https://cdn.oantagonista.com/uploads/2025/04/equipamentos-esportivos_1744839747385-1024x576.jpg');
+    background-size: cover;
+  }
+  
+  h1 {
+    color: white;
+    font-weight: bold;
+   text-align: center;
+  }
+  
+  .equi {
+    text-align: center;
+    color: rgb(0, 0, 0);
+  }
+  
+  .imagem1 {
+    border: solid black 3px;
+  }
+  
+  .imagem2 {
+    margin-left: 50px;
+    border: solid black 3px;
+  }
+  
+  .imagem3 {
+    margin-left: 50px;
+    border: solid black 3px;
+  }
+  
+  .imagem4 {
+    border: solid black 3px;
+  }
+  
+  .imagem5 {
+    border: solid black 3px;
+    margin-left: 50px;
+  }
+  
+  .imagem6 {
+    margin-left: 50px;
+    border: solid black 3px;
+  }
+  
+  .imagens1 {
+    background-color: #0093E2;
+    padding: 5px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  
+  .imagens2 {
+    background-color: #0093E2;
+    padding: 5px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  
+  .tudo {
+    margin-left: 11px;
+  }
